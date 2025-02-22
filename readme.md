@@ -1,24 +1,18 @@
 # Lavalite
 
-![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
-
-This is an open source of Content Management System developed with [Laravel](http://laravel.com/) framework.
+This is an open source of Content Management System
 
 ![Screen](https://raw.githubusercontent.com/LavaLite/docs/master/images/lavalite.png "Dashboards")
 
-## Documentation
-Visit [Documentation](http://lavalite.org/docs) section in the website
+/admin
+Username : superuser@lavalite.org
+Password : superuser@lavalite
 
-## System Requirements & Installation
-Visit [Installation](http://lavalite.org/docs/master/installation) section in the documentation for the details
+/user
+Username : user@lavalite.org
+Password : user@lavalite
 
+/client
+Username : client@lavalite.org
+Password : client@lavalite
 
-## Demo
-Content Management System [https://lavalite.org/demo.html](https://lavalite.org/demo.html)
-
-Products [https://lavalite.org/products.html](https://lavalite.org/products)
-
-
-## License
-
-The Lavalite CMS is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
